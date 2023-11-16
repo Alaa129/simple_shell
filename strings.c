@@ -2,7 +2,7 @@
 
 /**
  * _strlen - function to find string length
- * @len: tring to find his length
+ * @len: tring to find his 
  * Return: string length
  */
 int _strlen(char *len)
